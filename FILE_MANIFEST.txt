@@ -1,0 +1,25 @@
+.gitignore
+FILE_MANIFEST.txt
+PUT_FILES_HERE.txt
+PYINSTALLER_BUILD_NOTES.md
+README.md
+UPDATE_NOTES_COMPACT_REPORT_PLOTS.md
+UPDATE_NOTES_LARGE_MAP_TABS.md
+UPDATE_NOTES_TITLE_PADDING.md
+app.py
+boundary/.put_boundary_here
+build_exe.bat
+build_exe_onefile.bat
+check_setup.py
+data/VMD_Salinity_Dataset_IDW_500_Final.csv
+launcher.py
+outputs/.gitkeep
+requirements-build.txt
+requirements.txt
+run_demo.bat
+salinity_pipeline.py
+start.bat
+trained_models/.put_models_here
+verify_onnx_model.py
+
+UPDATE_NOTES_SHAP_EXPLAINABILITY.md - notes for SHAP graph update

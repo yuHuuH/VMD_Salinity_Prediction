@@ -1,0 +1,8 @@
+CSV-ONLY VERSION — required files:
+
+1) trained_models/best_lstm_model_top1.onnx
+2) trained_models/best_lstm_package_top1.pkl
+3) boundary/gadm41_VNM_3.json
+
+No TIFF, weather_combined.csv, or ONI file is required by this version.
+The prepared Final CSV in data/ already provides all LSTM feature columns.
